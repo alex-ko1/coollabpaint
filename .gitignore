@@ -1,0 +1,11 @@
+client/.idea
+client/node_modules
+client/.next
+/client/.idea
+/client/node_modules
+/client/.next
+
+/server/node_modules
+.idea/
+
+.DS_Store
